@@ -1,0 +1,11 @@
+{
+	"name": "chapter4-building-blockchain-projects",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"express": "4.14.0",
+		"hex2ascii": "0.0.3",
+		"moment": "^2.20.1",
+		"socket.io": "1.6.0",
+		"web3": "0.16.0"
+	}
+}
